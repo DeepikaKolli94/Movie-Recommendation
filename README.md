@@ -17,4 +17,4 @@ SVD	    0.918354
 KNN	    1.020506
 
 # Technologies
-Python, Pandas, Pyspark
+Python, Pyspark
