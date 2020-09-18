@@ -9,12 +9,7 @@ Dataset consists of metadata for all 45,000 movies listed in the Full MovieLens 
 Dataset Reference : https://grouplens.org/datasets/movielens/latest/
 
 # Results
-Below we have shown the RMSE values obtained for all the models that we have implemented. ALS model had lower RMSE value on test data after Cross validation and hyper parameter tuning.
-
-Model  	RMSE
-ALS  	  0.823177
-SVD	    0.918354
-KNN	    1.020506
+Below we have shown the RMSE values obtained for all the models that we have implemented. ALS model had lower RMSE value of 0.823 on test data after Cross validation and hyper parameter tuning compared to the RMSE value of 0.91 for SVD and 1.02 for KNN
 
 # Technologies
 Python, Pyspark
